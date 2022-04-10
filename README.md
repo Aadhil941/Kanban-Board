@@ -1,4 +1,4 @@
 # Kanban-Board
 
-npm install
+npm install and
 npm start
